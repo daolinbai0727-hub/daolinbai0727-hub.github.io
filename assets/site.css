@@ -49,7 +49,7 @@ button { font: inherit; }
 .portrait-frame { width: 188px; aspect-ratio: 6 / 7; margin: 0 auto 18px; padding: 4px; border: 1px solid var(--rule); border-radius: 8px; }
 .portrait-crop { position: relative; width: 100%; height: 100%; overflow: hidden; border-radius: 4px; }
 /* Frame the original photograph around the head and shoulders. */
-.portrait { display: block; position: absolute; width: 174%; max-width: none; height: auto; left: 50%; top: -23%; transform: translateX(-50%); }
+.portrait { display: block; position: absolute; width: 188%; max-width: none; height: auto; left: 50%; top: -26%; transform: translateX(-50%); }
 .profile-name { margin: 0 0 6px; font-size: 22px; line-height: 1.35; font-weight: 700; }
 .profile-role, .profile-affiliation { margin: 0; font-size: 15px; line-height: 1.65; }
 .profile-affiliation { max-width: 260px; margin: 3px auto 0; }
