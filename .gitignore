@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+files/*.pdf
+!files/Daolin_Bai_CV.pdf
