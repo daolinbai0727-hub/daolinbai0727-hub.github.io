@@ -46,8 +46,8 @@ button { font: inherit; }
 .site-nav a:hover, .site-nav a[aria-current='page'] { color: var(--accent); border-color: var(--accent); }
 .page-layout { display: grid; grid-template-columns: var(--sidebar) minmax(0, 1fr); gap: var(--gutter); align-items: start; padding-top: 32px; min-height: calc(100vh - 175px); }
 .profile { text-align: center; position: sticky; top: 35px; padding-top: 2px; }
-.portrait-frame { width: 218px; max-width: 100%; aspect-ratio: 642 / 688; margin: 0 auto 18px; padding: 4px; border: 1px solid var(--rule); border-radius: 50%; }
-.portrait-crop { position: relative; width: 100%; height: 100%; overflow: hidden; border-radius: 50%; }
+.portrait-frame { width: 218px; max-width: 100%; aspect-ratio: 642 / 688; margin: 0 auto 18px; padding: 4px; border: 1px solid var(--rule); border-radius: 0; }
+.portrait-crop { position: relative; width: 100%; height: 100%; overflow: hidden; border-radius: 0; }
 /* Frame the original photograph around the head and shoulders. */
 .portrait { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center; }
 .profile-name { margin: 0 0 6px; font-size: 22px; line-height: 1.35; font-weight: 700; }
