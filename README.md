@@ -14,7 +14,7 @@ Intended GitHub Pages address: https://daolinbai0727-hub.github.io/
 - `files/Daolin_Bai_CV.pdf`: academic CV.
 - `assets/`: photograph, styles, scripts, and locally hosted Lora fonts.
 
-“Revising the Separation: Optimal Monetary-Fiscal Mix in Open Economy” is the Job Market Paper. Both papers are marked “Draft coming soon.” Paper PDFs are intentionally excluded from this repository.
+“Redistribution as International Policy: Optimal Monetary-Fiscal Mix in Open Economies” is the Job Market Paper. Both papers are marked “Draft coming soon.” Paper PDFs are intentionally excluded from this repository.
 
 ## Local preview
 
